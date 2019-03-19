@@ -35,8 +35,4 @@ let isPalindrome = function(){
         }
         console.log(Palindrome)
         console.log(notPalindrome)
-<<<<<<< HEAD
     } 
-=======
-    }
->>>>>>> f022629270c7ee0a99699c5f1b451a20df758783
